@@ -1,4 +1,4 @@
-# GDPR and AI Act article meanings
+# Legal and ethics meaning map
 
 ## GDPR
 
@@ -99,3 +99,41 @@ Penalties enforcement
 ### Sector-specific rules
 
 Workplace platforms product liability
+
+## Ethics and course concepts
+
+### Socio-technical assessment
+
+System context power responsibility
+
+### Distributive procedural and substantive fairness
+
+Benefits costs contestation effects
+
+### HLEG Trustworthy AI
+
+Lawful ethical robust principles
+
+### Deontology and utilitarianism
+
+Rights dignity utility limits
+
+### Responsibility and the many hands problem
+
+Ex ante ex post accountability
+
+### Mediation theory and code is law
+
+Technology shapes action behaviour
+
+### Metrics Goodhart and Campbell
+
+Metric distortion target effects
+
+### Sustainability and hidden costs
+
+Environmental social externalities
+
+### Chatbots LLMs and overtrust
+
+Reliability bias autonomy oversight
